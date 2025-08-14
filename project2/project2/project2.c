@@ -42,7 +42,6 @@ void update_health(int size)
    //
    //int ramdom3 = rand() % 100 + 1;
    //printf("1 ~ 100 사이의 랜덤값 %d\n",ramdom3 );
-#pragma endregion
 #pragma region shuffle Function
    /*int list[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
    int size = sizeof(list) / sizeof(list[0]);

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\project2\\",
+  "WorkspaceRootPath": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C538FB9D-1483-4AC0-9B66-5AF4E9890BD0}|project2\\project2.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\project2\\project2\\project2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C538FB9D-1483-4AC0-9B66-5AF4E9890BD0}|project2\\project2.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\project2\\project2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C538FB9D-1483-4AC0-9B66-5AF4E9890BD0}|project2\\project2.vcxproj|solutionrelative:project2\\project2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63E674D-508B-40D0-99A9-B5A370E1BF25}|Class1\\Class1.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\Class1\\Class1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B63E674D-508B-40D0-99A9-B5A370E1BF25}|Class1\\Class1.vcxproj|solutionrelative:Class1\\Class1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.c",
+              "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\Class1\\Class1.c",
+              "RelativeDocumentMoniker": "Class1\\Class1.c",
+              "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\Class1\\Class1.c",
+              "RelativeToolTip": "Class1\\Class1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T09:33:05.472Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "project2.c",
-              "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\project2\\project2\\project2.c",
+              "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\project2\\project2.c",
               "RelativeDocumentMoniker": "project2\\project2.c",
-              "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\project2\\project2\\project2.c",
+              "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c-2\\c-2\\c-2\\project2\\project2\\project2.c",
               "RelativeToolTip": "project2\\project2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwFcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-12T09:18:18.642Z",
               "EditorCaption": ""
