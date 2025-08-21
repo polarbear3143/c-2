@@ -3,14 +3,14 @@
 #include <time.h>
 #pragma region shuffle
 
-void update_health(int size) 
-{
-	for (int i = 0; i < size; i++)
-	{
-		printf("♥");
-	}
-	printf("\n");
-}
+//void update_health(int size) 
+//{
+//	for (int i = 0; i < size; i++)
+//	{
+//		printf("♥");
+//	}
+//	printf("\n");
+//}
 
 //void shuffle(int list[], int size)
 //{
@@ -31,11 +31,13 @@ void update_health(int size)
    // UTC 기준으로 1970년 1월 1일 0시 0분 초부터 경과된
    // 시간을 초(sec)로 반환하는 함수입니다.
 
+   //int random = rand(); 
+   //printf("랜덤값 %d\n", random);
+
+
    //srand(time(NULL)); // 현재 시간을 시드값으로 설정합니다.
    //srand(5); // 시드값을 설정합니다. 같은 시드값을 사용하면 같은 난수열이 생성됩니다.
-   //int random = rand(); 
 
-   //printf("랜덤값 %d\n", random);
 
    //int ramdom2 = rand() % 10;
    //printf("0 ~ 9 사이의 랜덤값 %d\n", ramdom2);
